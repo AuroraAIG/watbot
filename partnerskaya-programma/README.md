@@ -4,14 +4,14 @@
 
 Если вы участвуйте в нашей партнерской программе, теперь вы можете просматривать ваши активные рефералы за текущий день.
 
-![](.gitbook/assets/qS0ritIqnrw.jpg)
+![](../.gitbook/assets/qS0ritIqnrw.jpg)
 
 Напоминаем что на данный момент партнерское вознаграждение составляет **20%** и приходит на баланс вашего аккаунта каждый день! Это вы можете видеть в списке операций по вашему аккаунту.
 
-![](.gitbook/assets/Mh04VY3pcaM.jpg)
+![](../.gitbook/assets/Mh04VY3pcaM.jpg)
 
 Если кликнуть на операцию, вы можете увидеть за каких клиентов вы получили вознаграждение.
 
-![](.gitbook/assets/lilcpIC4i1Q.jpg)
+![](../.gitbook/assets/lilcpIC4i1Q.jpg)
 
 Подключиться к партнерской программе Watbot можно по ссылке — [https://watbot.ru/partner](https://vk.com/away.php?to=https%3A%2F%2Fwatbot.ru%2Fpartner\&cc\_key=)

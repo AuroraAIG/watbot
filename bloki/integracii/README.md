@@ -32,6 +32,6 @@
 [blok-http-zapros.md](blok-http-zapros.md)
 {% endcontent-ref %}
 
-{% content-ref url="iskhodyashii-webhook.md" %}
-[iskhodyashii-webhook.md](iskhodyashii-webhook.md)
+{% content-ref url="../specialnye/iskhodyashii-webhook.md" %}
+[iskhodyashii-webhook.md](../specialnye/iskhodyashii-webhook.md)
 {% endcontent-ref %}

@@ -51,8 +51,8 @@ description: Справочный центр платформы WatBot
 
 Стать партнером нажав на кнопку "Партнерская программа"
 
-{% content-ref url="partnerskaya-programma.md" %}
-[partnerskaya-programma.md](partnerskaya-programma.md)
+{% content-ref url="partnerskaya-programma/" %}
+[partnerskaya-programma](partnerskaya-programma/)
 {% endcontent-ref %}
 
 В правом верхнем углу можно нажать на кнопку с именем и аватаркой аккаунта и увидеть баланс аккаунта, тут можно зайти в настройки аккаунта, управлять тарифом аккаунта, перейти в справочный центр, открыть документацию API, выйти из аккаунта, переключаться между аккаунтами и добавить нового пользователя

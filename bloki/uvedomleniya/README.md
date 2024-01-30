@@ -16,6 +16,6 @@
 [blok-otpravit-soobshenie.md](blok-otpravit-soobshenie.md)
 {% endcontent-ref %}
 
-{% content-ref url="pismo-na-email.md" %}
-[pismo-na-email.md](pismo-na-email.md)
+{% content-ref url="../specialnye/pismo-na-email.md" %}
+[pismo-na-email.md](../specialnye/pismo-na-email.md)
 {% endcontent-ref %}
