@@ -1,6 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Пассивный доход по партнёрской программе
 
-Партнерская программа **Watbot** - это программа позволяющая пассивно зарабатывать, не выходя их дома
+<figure><img src="../.gitbook/assets/watbotpart.jpg" alt=""><figcaption></figcaption></figure>
+
+Партнерская программа **Watbot** - это программа позволяющая пассивно зарабатывать, не выходя их дома.
 
 **Кому подходит данная партнерская программа** ❓
 
