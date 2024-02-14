@@ -264,4 +264,5 @@
   * [Реферальная система](nastroiki-http-blokov-iz-video/referalnaya-sistema.md)
   * [Интеграция Chat GPT c чат-ботом](nastroiki-http-blokov-iz-video/integraciya-chat-gpt-c-chat-botom.md)
   * [Эффект печати](nastroiki-http-blokov-iz-video/effekt-pechati.md)
+  * [Отправка файла](nastroiki-http-blokov-iz-video/otpravka-faila.md)
 * [Документация API](https://docs.watbot.ru/)
