@@ -262,4 +262,5 @@
   * [Пересылка информации из бота в канал или группу](nastroiki-http-blokov-iz-video/peresylka-informacii-iz-bota-v-kanal-ili-gruppu.md)
   * [Реферальная система](nastroiki-http-blokov-iz-video/referalnaya-sistema.md)
   * [Интеграция Chat GPT c чат-ботом](nastroiki-http-blokov-iz-video/integraciya-chat-gpt-c-chat-botom.md)
+  * [Отправка видео](nastroiki-http-blokov-iz-video/otpravka-video.md)
 * [Документация API](https://docs.watbot.ru/)
