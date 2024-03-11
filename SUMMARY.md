@@ -227,6 +227,7 @@
   * [Настройки сайта](mikrolendingi/nastroiki-saita.md)
 * [Сценарии](scenarii/README.md)
   * [Дерево сценариев](scenarii/derevo-scenariev.md)
+  * [Копирование сценариев/папок](scenarii/kopirovanie-scenariev-papok.md)
 * [Управление тегами](upravlenie-tegami.md)
 * [Встроенный мессенджер (с возможностью менеджеру вмешиваться в диалог с пользователем чат-бота)](vstroennyi-messendzher-s-vozmozhnostyu-menedzheru-vmeshivatsya-v-dialog-s-polzovatelem-chat-bota.md)
 * [Права и роли](prava-i-roli.md)
