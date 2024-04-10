@@ -15,15 +15,19 @@ description: Справочный центр платформы WatBot
 * Паблик в дзен - [https://dzen.ru/id/60237cdb1b089b4616014f3f](https://dzen.ru/id/60237cdb1b089b4616014f3f)
 * Поддержка - [https://t.me/watbotassistant\_bot](https://t.me/watbotassistant\_bot)
 
-В левом меню вы можете выбрать нужный раздел и подраздел для изучения функций, в правом верхнем меню вы можете воспользоваться поиском раздела с ответом на вопросы
+В левом меню вы можете выбрать нужный раздел и подраздел для изучения функций, в правом верхнем меню вы можете воспользоваться поиском раздела с ответом на вопросы.
 
-Также здесь вы можете выбрать нужную страницу по разделам платформы
+Также здесь вы можете выбрать нужную страницу по разделам платформы.
+
+{% content-ref url="chat-boty/bazovyi-videokurs-po-platforme-watbot.md" %}
+[bazovyi-videokurs-po-platforme-watbot.md](chat-boty/bazovyi-videokurs-po-platforme-watbot.md)
+{% endcontent-ref %}
 
 ## Главное окно аккаунта
 
-После входа в аккаунт вы увидите главное окно
+После входа в аккаунт вы увидите главное окно:
 
-<figure><img src=".gitbook/assets/Снимок экрана 2022-11-14 в 5.56.22.png" alt=""><figcaption><p>Главное окно после входа в аккаунт</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (197).png" alt=""><figcaption><p>Главное окно после входа в аккаунт</p></figcaption></figure>
 
 В левой панели можно переключаться между проектами
 
@@ -45,8 +49,8 @@ description: Справочный центр платформы WatBot
 
 управлять тарифом аккаунта, нажав на кнопку "Оплата"
 
-{% content-ref url="balans-podpischika-v-chat-bote.md" %}
-[balans-podpischika-v-chat-bote.md](balans-podpischika-v-chat-bote.md)
+{% content-ref url="master/nastroiki/oplata.md" %}
+[oplata.md](master/nastroiki/oplata.md)
 {% endcontent-ref %}
 
 Стать партнером нажав на кнопку "Партнерская программа"
@@ -67,22 +71,18 @@ description: Справочный центр платформы WatBot
 [nastroiki](master/nastroiki/)
 {% endcontent-ref %}
 
-{% content-ref url="master/scenarii-bota.md" %}
-[scenarii-bota.md](master/scenarii-bota.md)
+{% content-ref url="readme/tarify.md" %}
+[tarify.md](readme/tarify.md)
 {% endcontent-ref %}
 
-{% content-ref url="master/kanaly.md" %}
-[kanaly.md](master/kanaly.md)
+{% content-ref url="chat-boty/" %}
+[chat-boty](chat-boty/)
 {% endcontent-ref %}
 
-{% content-ref url="master/avtorassylki/" %}
-[avtorassylki](master/avtorassylki/)
+{% content-ref url="mikrolendingi/" %}
+[mikrolendingi](mikrolendingi/)
 {% endcontent-ref %}
 
-{% content-ref url="master/nastroiki-bota.md" %}
-[nastroiki-bota.md](master/nastroiki-bota.md)
-{% endcontent-ref %}
-
-{% content-ref url="master/crm.md" %}
-[crm.md](master/crm.md)
+{% content-ref url="sozdat-vidzhet.md" %}
+[sozdat-vidzhet.md](sozdat-vidzhet.md)
 {% endcontent-ref %}
