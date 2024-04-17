@@ -21,3 +21,7 @@ description: >-
 {% content-ref url="referalnaya-sistema.md" %}
 [referalnaya-sistema.md](referalnaya-sistema.md)
 {% endcontent-ref %}
+
+{% content-ref url="integraciya-s-shaindesk.md" %}
+[integraciya-s-shaindesk.md](integraciya-s-shaindesk.md)
+{% endcontent-ref %}
