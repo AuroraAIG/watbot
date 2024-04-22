@@ -233,6 +233,7 @@
   * [Настройки сайта](mikrolendingi/nastroiki-saita.md)
 * [Виджеты](sozdat-vidzhet.md)
 * [Часто задаваемые вопросы](chasto-zadavaemye-voprosy/README.md)
+  * [Почему не работает бот?](chasto-zadavaemye-voprosy/pochemu-ne-rabotaet-bot.md)
   * [Вопросы про Telegram](chasto-zadavaemye-voprosy/voprosy-pro-telegram.md)
   * [Вопросы про WhatsApp](chasto-zadavaemye-voprosy/voprosy-pro-whatsapp.md)
   * [Загрузка файлов в чат-бот](chasto-zadavaemye-voprosy/zagruzka-failov-v-chat-bot.md)
