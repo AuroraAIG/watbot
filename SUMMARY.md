@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Добро пожаловать!](README.md)
+* [Лимиты и ограничения](README.md)
+* [Добро пожаловать!](<README (1).md>)
   * [Вход и регистрация](master/vkhod-i-registraciya.md)
   * [Аккаунт](master/nastroiki/README.md)
     * [Настройки аккаунта](master/nastroiki/nastroiki-akkaunta.md)
