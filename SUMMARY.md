@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Лимиты и ограничения](README.md)
-* [Добро пожаловать!](<README (1).md>)
+* [Добро пожаловать!](README.md)
   * [Вход и регистрация](master/vkhod-i-registraciya.md)
   * [Аккаунт](master/nastroiki/README.md)
     * [Настройки аккаунта](master/nastroiki/nastroiki-akkaunta.md)
@@ -238,6 +237,7 @@
   * [Вопросы про Telegram](chasto-zadavaemye-voprosy/voprosy-pro-telegram.md)
   * [Вопросы про WhatsApp](chasto-zadavaemye-voprosy/voprosy-pro-whatsapp.md)
   * [Загрузка файлов в чат-бот](chasto-zadavaemye-voprosy/zagruzka-failov-v-chat-bot.md)
+  * [Лимиты и ограничения](chasto-zadavaemye-voprosy/limity-i-ogranicheniya.md)
   * [Разное](chasto-zadavaemye-voprosy/raznoe.md)
 * [Кейсы](keisy/README.md)
   * [Чат-боты для онлайн-школ](keisy/primeneniya-chat-botov-v-onlain-shkolakh/README.md)
