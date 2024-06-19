@@ -48,8 +48,8 @@
 [import-iz-excel-v-spiski.md](import-iz-excel-v-spiski.md)
 {% endcontent-ref %}
 
-{% content-ref url="java-script-resheniya.md" %}
-[java-script-resheniya.md](java-script-resheniya.md)
+{% content-ref url="java-script-resheniya/" %}
+[java-script-resheniya](java-script-resheniya/)
 {% endcontent-ref %}
 
 {% content-ref url="gotovye-shablony-chat-botov.md" %}
