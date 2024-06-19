@@ -12,4 +12,6 @@
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 12.27.22.png" alt=""><figcaption><p>Кнопка разблокировки масштабирования для быстрого изменения масштаба</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 12.31.24.png" alt=""><figcaption><p>Эта же кнопка блокировки масштабирования для перемещения по карте без масштабирования с помощью тачпада</p></figcaption></figure>
+
 {% embed url="https://www.youtube.com/watch?t=40s&v=_wGPui5rWW0" %}
