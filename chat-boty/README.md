@@ -56,6 +56,6 @@
 [gotovye-shablony-chat-botov.md](gotovye-shablony-chat-botov.md)
 {% endcontent-ref %}
 
-{% content-ref url="poleznye-video/" %}
-[poleznye-video](poleznye-video/)
+{% content-ref url="poleznye-video.md" %}
+[poleznye-video.md](poleznye-video.md)
 {% endcontent-ref %}

@@ -225,7 +225,7 @@
   * [Импорт из Excel в списки](chat-boty/import-iz-excel-v-spiski.md)
   * [Javascript решения](chat-boty/java-script-resheniya.md)
   * [Готовые шаблоны чат-ботов](chat-boty/gotovye-shablony-chat-botov.md)
-  * [Полезные видео](chat-boty/poleznye-video/README.md)
+  * [Полезные видео](chat-boty/poleznye-video.md)
     * [Рекурентные платежи](chat-boty/poleznye-video/rekurentnye-platezhi.md)
     * [Прием платежей в криптовалюты](chat-boty/poleznye-video/priem-platezhei-v-kriptovalyuty.md)
 * [Мини-лендинги](mikrolendingi/README.md)
