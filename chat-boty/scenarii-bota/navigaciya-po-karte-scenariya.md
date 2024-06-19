@@ -10,4 +10,6 @@
 
 ## Масштабирование карты колесом мыши или тачпадом
 
+<figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-19 в 12.27.22.png" alt=""><figcaption><p>Кнопка разблокировки масштабирования для быстрого изменения масштаба</p></figcaption></figure>
+
 {% embed url="https://www.youtube.com/watch?t=40s&v=_wGPui5rWW0" %}
