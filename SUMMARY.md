@@ -241,6 +241,7 @@
   * [Полезные видео](chat-boty/poleznye-video.md)
     * [Рекурентные платежи](chat-boty/poleznye-video/rekurentnye-platezhi.md)
     * [Прием платежей в криптовалюты](chat-boty/poleznye-video/priem-platezhei-v-kriptovalyuty.md)
+    * [Как переслать сообщение из бота в канал или группу?](chat-boty/poleznye-video/kak-pereslat-soobshenie-iz-bota-v-kanal-ili-gruppu.md)
 * [Мини-лендинги](mikrolendingi/README.md)
   * [Ссылки на чат-боты в кнопках мини-лендингов](mikrolendingi/ssylki-na-chat-boty-v-knopkakh-mikrolendingov.md)
   * [Блоки страницы](mikrolendingi/bloki-stranicy.md)
