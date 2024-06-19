@@ -16,6 +16,6 @@ description: Все подстановки в текст должны быть �
 [matematicheskie-formuly.md](matematicheskie-formuly.md)
 {% endcontent-ref %}
 
-{% content-ref url="sistemnye-funkcii.md" %}
-[sistemnye-funkcii.md](sistemnye-funkcii.md)
+{% content-ref url="sistemnye-funkcii/" %}
+[sistemnye-funkcii](sistemnye-funkcii/)
 {% endcontent-ref %}
