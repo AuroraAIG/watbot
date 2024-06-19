@@ -58,7 +58,7 @@
         * [Добавление записи в список](chat-boty/scenarii-bota/bloki/spiski-i-tablicy/dobavlenie-zapisi-v-spisok.md)
         * [Проверка существования записи в списке](chat-boty/scenarii-bota/bloki/spiski-i-tablicy/proverka-sushestvovaniya-zapisi-v-spiske.md)
         * [Бронирование записи из списка](chat-boty/scenarii-bota/bloki/spiski-i-tablicy/bronirovanie-zapisi-iz-spiska.md)
-        * [Чтение строк из таблицы](chat-boty/scenarii-bota/bloki/spiski-i-tablicy/chtenie-strok-iz-tablicy.md)
+        * [Чтение записей из Google-таблицы](chat-boty/scenarii-bota/bloki/spiski-i-tablicy/chtenie-strok-iz-tablicy.md)
       * [Платежи](chat-boty/scenarii-bota/bloki/platezhi-v-botakh/README.md)
         * [Юкасса](chat-boty/scenarii-bota/bloki/platezhi-v-botakh/yukassa.md)
         * [ЮМани(Яндекс.Деньги)](chat-boty/scenarii-bota/bloki/platezhi-v-botakh/yumani-yandeks.dengi.md)
