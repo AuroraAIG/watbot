@@ -256,6 +256,7 @@
   * [Лимиты и ограничения](chasto-zadavaemye-voprosy/limity-i-ogranicheniya.md)
   * [Разное](chasto-zadavaemye-voprosy/raznoe.md)
 * [Кейсы](keisy/README.md)
+  * [Интеграция Watbot и ChatGPT](keisy/integraciya-watbot-i-chatgpt.md)
   * [Чат-боты для онлайн-школ](keisy/primeneniya-chat-botov-v-onlain-shkolakh/README.md)
     * [Повышение доходимости до вебинара](keisy/primeneniya-chat-botov-v-onlain-shkolakh/povyshenie-dokhodimosti-do-vebinara.md)
     * [Применение чат-ботов для онлайн школ](keisy/primeneniya-chat-botov-v-onlain-shkolakh/primenenie-chat-botov-dlya-onlain-shkol.md)
