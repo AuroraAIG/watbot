@@ -4,7 +4,7 @@ description: >-
   Google-таблицы можно это сделать 3 строчками а блоке интерпретатор Javascript
 ---
 
-# Обрезание строчки из гугл таблицы
+# Обрезание строчки из Google таблицы
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2024-06-29 в 00.11.48.png" alt=""><figcaption><p>Начальный текст в Google таблице</p></figcaption></figure>
 
