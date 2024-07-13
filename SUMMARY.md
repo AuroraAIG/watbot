@@ -166,6 +166,7 @@
     * [Прямые ссылки на дополнительные сценарии](chat-boty/scenarii-bota/scenarii.md)
     * [Навигация по карте сценария](chat-boty/scenarii-bota/navigaciya-po-karte-scenariya.md)
   * [Каналы (мессенджеры)](chat-boty/kanaly/README.md)
+    * [Telegram Группы/Каналы](chat-boty/kanaly/telegram-gruppy-kanaly.md)
     * [Telegram](chat-boty/kanaly/telegram/README.md)
       * [Подключение](chat-boty/kanaly/telegram/podklyuchenie.md)
       * [Прямые ссылки на дополнительные сценарии в Телеграм](chat-boty/kanaly/telegram/pryamye-ssylki-na-dopolnitelnye-scenarii-v-telegram.md)
