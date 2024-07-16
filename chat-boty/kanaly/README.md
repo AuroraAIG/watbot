@@ -20,8 +20,8 @@
 [vk](vk/)
 {% endcontent-ref %}
 
-{% content-ref url="icq.md" %}
-[icq.md](icq.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Важная информация:
