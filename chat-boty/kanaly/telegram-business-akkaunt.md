@@ -24,6 +24,8 @@
 
 Нажимаем на кнопку **Просмотр**
 
+Ссылка на шаблон - [https://watbot.ru/templates/119/bots/48897](https://watbot.ru/templates/119/bots/48897)
+
 <figure><img src="../../.gitbook/assets/Снимок экрана 2024-07-16 в 16.32.27.png" alt=""><figcaption><p>Интерфейс поиска шаблонов</p></figcaption></figure>
 
 Заполняем поля Ключ СhatGPT, TelegramID и Ключ
