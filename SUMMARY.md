@@ -199,6 +199,7 @@
       * [SMS.to](chat-boty/integracii/sms-servisy/sms.to.md)
       * [SMS.RU](chat-boty/integracii/sms-servisy/sms.ru.md)
     * [Интеграция Watbot и ChatGPT](chat-boty/integracii/integraciya-watbot-i-chatgpt.md)
+    * [Уclients](chat-boty/integracii/uclients.md)
   * [Отправка заявок](chat-boty/otpravka-zayavok/README.md)
     * [Добавление способов приема заявок](chat-boty/otpravka-zayavok/dobavlenie-sposobov-priema-zayavok.md)
     * [Получение заявок с другого email](chat-boty/otpravka-zayavok/poluchenie-zayavok-s-drugogo-email.md)
