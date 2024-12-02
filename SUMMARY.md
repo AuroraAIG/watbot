@@ -6,6 +6,7 @@
     * [Настройки аккаунта](master/nastroiki/nastroiki-akkaunta.md)
     * [Безопасность аккаунта](readme/nastroiki/bezopasnost-akkaunta.md)
     * [Оплата](master/nastroiki/oplata.md)
+    * [Ночная и дневная темы](readme/nastroiki/nochnaya-i-dnevnaya-temy.md)
   * [Тарифы](readme/tarify.md)
 * [Чат-боты](chat-boty/README.md)
   * [Настрой чат-бот за 10 уроков - бесплатный марафон от Watbot](chat-boty/bazovyi-videokurs-po-platforme-watbot.md)
