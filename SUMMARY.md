@@ -162,7 +162,7 @@
         * [Генерация случайных чисел и строк](chat-boty/scenarii-bota/avtopodstanovka/sistemnye-funkcii/generaciya-sluchainykh-chisel-i-strok.md)
         * [Сообщения для определенного мессенджера](chat-boty/scenarii-bota/avtopodstanovka/sistemnye-funkcii/soobsheniya-dlya-opredelennogo-messendzhera.md)
         * [Работа со счетами](chat-boty/scenarii-bota/avtopodstanovka/sistemnye-funkcii/rabota-so-schetami.md)
-      * [Реферальная система Telegram](chat-boty/scenarii-bota/avtopodstanovka/referalnaya-sistema-telegram.md)
+      * [Реферальная система](chat-boty/scenarii-bota/avtopodstanovka/referalnaya-sistema-telegram.md)
     * [Копирование сценариев/папок](chat-boty/scenarii-bota/kopirovanie-scenariev-papok.md)
     * [Прямые ссылки на дополнительные сценарии](chat-boty/scenarii-bota/scenarii.md)
     * [Навигация по карте сценария](chat-boty/scenarii-bota/navigaciya-po-karte-scenariya.md)
