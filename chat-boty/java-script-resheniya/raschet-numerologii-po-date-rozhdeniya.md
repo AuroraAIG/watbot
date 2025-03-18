@@ -13,7 +13,7 @@ function digit (number) {
   return sum
 }
 year = digit(year);
-if(year > 22){
+if(year > 20){
   year = digit(year);
 }
 setContactVariable("Энергия", year) 
