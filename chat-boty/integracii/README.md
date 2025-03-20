@@ -12,8 +12,8 @@
 [klientskaya-baza](klientskaya-baza/)
 {% endcontent-ref %}
 
-{% content-ref url="amocrm/" %}
-[amocrm](amocrm/)
+{% content-ref url="amocrm.md" %}
+[amocrm.md](amocrm.md)
 {% endcontent-ref %}
 
 {% content-ref url="bitrix24/" %}
