@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Кликните на эту кнопку. Далее в нижнем правом углу кликните на иконку шестеренки чтобы открыть панель настроек слева:
 
