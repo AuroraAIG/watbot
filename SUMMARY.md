@@ -147,7 +147,7 @@
       * [Реферальная система](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/referalnaya-sistema.md)
       * [Интеграция Chat GPT c чат-ботом](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/integraciya-chat-gpt-c-chat-botom.md)
       * [Интеграция с Сhaindesk](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/integraciya-s-shaindesk.md)
-      * [Отправляем файлы](chat-boty/bloki/nastroiki-http-blokov-iz-video/otpravlyaem-faily.md)
+      * [Отправляем файлы через http блок](chat-boty/bloki/nastroiki-http-blokov-iz-video/otpravlyaem-faily-cherez-http-blok.md)
       * [Эффект печати](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/effekt-pechati.md)
   * [Настройки сценария](chat-boty/scenarii-bota/README.md)
     * [Дерево сценариев](chat-boty/scenarii-bota/derevo-scenariev.md)
