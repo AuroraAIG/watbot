@@ -8,15 +8,15 @@ description: Интеграция amoCRM с Watbot
 
 Откройте личный кабинет [amoCRM](https://www.amocrm.ru/), затем перейдите в раздел **amoМаркет** > **Маркетплейс > Чаты и мессенджеры** и установите приложение [Watbot](https://watbot.ru).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Приложение Watbot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Приложение Watbot</p></figcaption></figure>
 
 ### 2. Настройка интеграции
 
 Откройте личный кабинет [Watbot](https://watbot.ru), затем перейдите в раздел **Ваш проект** > **Ваш чат-бот** > **Настройки** > **Интеграции** > **amoCRM**. Далее для интеграции достаточно кликнуть по кнопке **«Привязать новый аккаунт amoCRM»** и во всплывающем окне разрешить доступ приложению Watbot к вашему аккаунту amoCRM.
 
-![](<../../../.gitbook/assets/Скриншот 18-03-2025 182032.jpg>)
+![](<../../.gitbook/assets/Скриншот 18-03-2025 182032.jpg>)
 
-![](<../../../.gitbook/assets/Скриншот 18-03-2025 182442.jpg>)
+![](<../../.gitbook/assets/Скриншот 18-03-2025 182442.jpg>)
 
 ### 3. Воронка, этап, ответственный
 
@@ -26,13 +26,13 @@ description: Интеграция amoCRM с Watbot
 
 Так же вы можете настроить создание сделок при каждой заявке клиента в Watbot.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Отключение бота
 
 Если вы хотите использовать виджет amoCRM только для переписки с клиентами, отключите бота  в настройках, в разделе Дополнительно.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Особенности работы
 
