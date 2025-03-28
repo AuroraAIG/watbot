@@ -14,8 +14,8 @@ description: >-
 [preobrazovat-vremya-iz-unix-v-format-d.m.y.md](preobrazovat-vremya-iz-unix-v-format-d.m.y.md)
 {% endcontent-ref %}
 
-{% content-ref url="peredacha-faila-na-storonnii-server.md" %}
-[peredacha-faila-na-storonnii-server.md](peredacha-faila-na-storonnii-server.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="raschet-numerologii-po-date-rozhdeniya.md" %}
