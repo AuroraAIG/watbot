@@ -192,7 +192,6 @@
   * [Настройки чат-бота](chat-boty/nastroiki-bota.md)
   * [Интеграции](chat-boty/integracii/README.md)
     * [Интеграция с Google Таблицами](chat-boty/integracii/integraciya-s-google-tablicami.md)
-    * [Таблица Watbot и Google таблица](chat-boty/integracii/tablica-watbot-i-google-tablica.md)
     * [Клиентская База](chat-boty/integracii/klientskaya-baza/README.md)
       * [Как настроить интеграцию с Клиентской Базой](chat-boty/integracii/klientskaya-baza/kak-nastroit-integraciyu-s-klientskoi-bazoi.md)
     * [amoCRM](chat-boty/integracii/amocrm.md)
