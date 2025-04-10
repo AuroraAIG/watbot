@@ -244,6 +244,7 @@
     * [Бот с каталогом в кнопках](chat-boty/java-script-resheniya/bot-s-katalogom-v-knopkakh.md)
     * [Преобразовать время из Unix в формат d.m.Y](chat-boty/java-script-resheniya/preobrazovat-vremya-iz-unix-v-format-d.m.y.md)
     * [Расчет нумерологии по дате рождения](chat-boty/java-script-resheniya/raschet-numerologii-po-date-rozhdeniya.md)
+    * [Сравнение переменных и вывод наибольшего значения.](chat-boty/java-script-resheniya/sravnenie-peremennykh-i-vyvod-naibolshego-znacheniya..md)
     * [Обрезание строчки из Google таблицы](chat-boty/java-script-resheniya/obrezanie-strochki-iz-google-tablicy.md)
   * [Готовые шаблоны чат-ботов](chat-boty/gotovye-shablony-chat-botov.md)
   * [Полезные видео](chat-boty/poleznye-video.md)
