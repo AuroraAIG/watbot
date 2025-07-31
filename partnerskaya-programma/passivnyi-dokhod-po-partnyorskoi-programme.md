@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Пассивный доход по партнёрской программе
 
 <figure><img src="../.gitbook/assets/watbotpart.jpg" alt=""><figcaption></figcaption></figure>
