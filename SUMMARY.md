@@ -143,6 +143,7 @@
       * [Отправка видео](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/otpravka-video.md)
       * [Отправка голосового сообщения](chat-boty/bloki/nastroiki-http-blokov-iz-video/otpravka-golosovogo-soobsheniya.md)
       * [Отправка фото](chat-boty/bloki/nastroiki-http-blokov-iz-video/copy-of-otpravka-video.md)
+      * [Отправка видео сообщения.](chat-boty/bloki/nastroiki-http-blokov-iz-video/otpravka-video-soobsheniya..md)
       * [Отправка файла (sendDocument)](chat-boty/bloki/nastroiki-http-blokov-iz-video/otpravka-faila-senddocument.md)
       * [Автоматическое одобрение заявок](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/avtomaticheskoe-odobrenie-zayavok.md)
       * [Пересылка информации из бота в канал или группу](chat-boty/scenarii-bota/bloki/nastroiki-http-blokov-iz-video/peresylka-informacii-iz-bota-v-kanal-ili-gruppu.md)
