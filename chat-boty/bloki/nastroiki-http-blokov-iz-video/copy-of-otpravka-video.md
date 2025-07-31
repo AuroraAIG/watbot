@@ -37,6 +37,6 @@ api\_token=\{{ token\_WB\}}
 
 <figure><img src="../../../.gitbook/assets/Скриншот 31-07-2025 152339.jpg" alt=""><figcaption></figcaption></figure>
 
-Записывае ответ json в переменные.
+Записываем ответ json в переменные.
 
 data.url = url\_photo
