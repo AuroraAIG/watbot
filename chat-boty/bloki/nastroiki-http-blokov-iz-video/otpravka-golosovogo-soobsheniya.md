@@ -1,6 +1,6 @@
 # Отправка голосового сообщения
 
-Как отправить видео любого размера.
+
 
 <figure><img src="../../../.gitbook/assets/Скриншот 31-07-2025 155138.jpg" alt=""><figcaption></figcaption></figure>
 
