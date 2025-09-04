@@ -4,7 +4,7 @@
 
 Стоимость и тарифы смотрите на сайте (для работы данного бота хватит минимального тарифа)&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Переменная "вопрос" записывается в блоке, где пользователь задает вопрос </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Переменная "вопрос" записывается в блоке, где пользователь задает вопрос </p></figcaption></figure>
 
 URL:&#x20;
 
@@ -28,7 +28,7 @@ Body: json
 1. Перейти на сайт [chadgpt.ru](https://chadgpt.ru/)
 2. Нажать "использовать бесплатно"
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Нажать на меню
 

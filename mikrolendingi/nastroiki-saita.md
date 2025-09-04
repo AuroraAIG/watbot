@@ -22,7 +22,7 @@
 
 #### Дополнительные скрипты
 
-![](../.gitbook/assets/kyVRdKSOix8.jpg)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Вы можете добавлять дополнительный код в ваши мини-лендинги, например это может быть например счетчик Яндекс.Метрики.
 
