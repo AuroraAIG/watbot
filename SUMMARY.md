@@ -185,7 +185,7 @@
       * [Подключение и тарифы](chat-boty/kanaly/whatsapp/podklyuchenie-i-tarify.md)
       * [Запуск бота только по подготовленному сообщению](chat-boty/kanaly/whatsapp/zapusk-bota-tolko-po-podgotovlennomu-soobsheniyu.md)
       * [Настройка бота для WhatsApp](chat-boty/kanaly/whatsapp/nastroika-bota-dlya-whatsapp.md)
-      * [Особенности работы чат-бота в WhatsApp](chat-boty/kanaly/whatsapp/osobennosti-raboty-chat-bota-v-whatsapp.md)
+      * [Особенности работы чат-бота в WhatsApp от GreenApi](chat-boty/kanaly/whatsapp/osobennosti-raboty-chat-bota-v-whatsapp.md)
     * [Max](chat-boty/kanaly/max/README.md)
       * [Регистрация бота в MAX](chat-boty/kanaly/max/registraciya-bota-v-max.md)
       * [Подключение к Watbot](chat-boty/kanaly/max/podklyuchenie-k-watbot.md)
